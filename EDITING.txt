@@ -1,0 +1,15 @@
+OPEN AND EDIT
+1. Extract the entire ZIP into one folder.
+2. Open index.html in your browser.
+3. Open the corresponding .html file in a text editor to change page text.
+4. Edit styles.css to change colors, typography, spacing, or mobile layout.
+5. Replace images inside assets/ using the same filenames. Project boards contain text inside images; edit their original design files and export replacements to change that text.
+6. Open assets/resume.pdf and assets/resume-footer-version.pdf. Choose the correct résumé, then save it as assets/resume.pdf. All website résumé links use that file.
+7. Check all seven pages after editing. Follow every navigation and project link, open the résumé, and resize your browser to a narrow phone-sized window.
+8. Upload the contents of this folder to your static web host. Keep index.html at the site's root and retain the assets/ folder.
+9. Verify the hosted pages, images, email link, LinkedIn link, and résumé. The email link opens the visitor's email application; it is not a hosted contact form.
+10. If an image is missing, restore its filename and assets/ location. If styling is missing, restore styles.css beside index.html and refresh the browser.
+11. Keep a copy of the previous folder before each update. Restore that copy to recover from an unwanted change.
+
+REBUILD NOTES
+Seven standalone HTML pages and shared CSS. No Wix scripts, account, build system, or JavaScript dependency is required. Images and Poppins fonts are local. Layouts were recreated responsively from the Wix preview, not exported pixel-for-pixel. The Work grid and footer are simplified. Default Wix social/promotional links were omitted. Project presentation text remains embedded in the original image boards. Two different résumé files were present in Wix and are included for review. The Wix editor's logo did not render in preview; the standalone header uses the name wordmark. Nothing has been published or committed to Git.
