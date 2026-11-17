@@ -185,3 +185,7 @@ footer{row-gap:55px}
 .home-page .intro{font-size:19px;font-weight:700;color:#404040}
 
 .home-page .hero::before{background:#e3eef4;box-shadow:0 0 0 100vmax #e3eef4}
+
+.footer-projects .footer-project-button{padding-left:10px;padding-right:10px;font-size:14px}
+
+.about::before{background:#e3eef4;box-shadow:0 0 0 100vmax #e3eef4}
