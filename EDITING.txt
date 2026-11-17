@@ -15,7 +15,14 @@ REBUILD NOTES
 Seven standalone HTML pages and shared CSS. No Wix scripts, account, build system, or JavaScript dependency is required. Images and Poppins fonts are local. Layouts were recreated responsively from the Wix preview, not exported pixel-for-pixel. The Work grid and footer are simplified. Default Wix social/promotional links were omitted. Project presentation text remains embedded in the original image boards. Two different résumé files were present in Wix and are included for review. The Wix editor's logo did not render in preview; the standalone header uses the name wordmark. Nothing has been published or committed to Git.
 
 IMAGE SIZES
-Project boards: 768, 1440, and 2560 pixels wide. Clicking a board opens the largest optimized version.
+Project boards: 768, 1440, and 2560 pixels wide. SPOT, MokaGo, and HUB also include 4800-pixel full-resolution versions. Clicking a board opens the largest optimized version.
+SPOT project download: assets/SpotLamp_KeiraWalkden.pdf; the download button is in spot-lamp.html.
 Project thumbnails: 600 pixels wide and up to 1200 pixels wide, without enlarging smaller source images.
 Portrait: 520 and 1040 pixels wide.
 Image proportions and transparency are preserved. The existing lazy loading on project boards remains enabled.
+
+SPOT board filenames follow the source exports: Spot_Cover, Spot_Why, Spot_Ideation, Spot_Assembly, Spot_Dimensions, and Spot_Closing, with .webp extensions and -768w, -1440w, and -2560w responsive variants.
+
+MokaGo project download: assets/MokaGo_KeiraWalkden.pdf. Board filenames follow the source exports: MokaGo_Cover, MokaGo_Inspiration, MokaGo_Ideation, MokaGo_Prototyping, MokaGo_BrewsUp, MokaGo_StepsOfUse, and MokaGo_Closing, with .webp extensions and -768w, -1440w, and -2560w responsive variants.
+
+HUB project download: assets/HUB_KeiraWalkden.pdf. Board filenames follow the source exports: HUB_Cover, HUB_Why, HUB_Inspiration, HUB_Ideation, HUB_HeightAdjustable, HUB_Website, and HUB_Closing, with .webp extensions and -768w, -1440w, and -2560w responsive variants.
